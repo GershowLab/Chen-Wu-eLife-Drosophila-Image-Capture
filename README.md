@@ -9,8 +9,7 @@ Software is provided to help understand publications by the Gershow lab. There i
 
 This software was developed in LabView 2013. It requries Labview 2013 (or later) to operate as well as NI Vision Acquisition Software, Vision Development Module, NI DAQmx, and possibly other NI drivers and packages.
 
-The main vi is "image recorder main panel.vi" in the directory
-Gershow-Image-Capture-Software\Image Aquisition - Labview\Image Recorder
+The main vi is "image recorder main panel.vi" in the directory Image Aquisition - Labview\Image Recorder
 Yes, "Acquisition" is misspelled, but I'm afraid that if I change the directory name, labview will have trouble finding vis
 
 
