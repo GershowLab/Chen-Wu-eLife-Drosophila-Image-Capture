@@ -1,0 +1,6 @@
+[submodule "Image-Stack-Compressor"]
+	path = Image-Stack-Compressor
+	url = https://github.com/GershowLab/MMF-StaticBackgroundCompressor
+[submodule "Image Aquisition - Labview/LabVIEW_LJUD"]
+	path = Image Aquisition - Labview/LabVIEW_LJUD
+	url = https://github.com/labjack/LabVIEW_LJUD
